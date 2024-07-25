@@ -27,7 +27,7 @@ A simple PHP-based link tracking system that allows users to add, edit, delete, 
     ```
 
 2. **Set up the database**:
-    - Create a MySQL database and import the provided `database.sql` file.
+    - Create a MySQL database, username and password.
     - Update the database configuration in `config/config.php`:
     ```php
     return [
