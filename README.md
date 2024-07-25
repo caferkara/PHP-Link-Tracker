@@ -37,6 +37,7 @@ A simple PHP-based link tracking system that allows users to add, edit, delete, 
         'database' => 'your_database',
     ];
     ```
+- After config.php done, you should run this link to create a table: http://localhost/link-tracker/install/setup_database.php
 
 3. **Run the application**:
     - Make sure you have a local server running (like WAMP, XAMPP, or MAMP).
