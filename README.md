@@ -64,6 +64,14 @@ A simple PHP-based link tracking system that allows users to add, edit, delete, 
 5. **Copy Link**:
     - Click the "Copy Link" link to copy the tracker URL to your clipboard.
     - Share the copied URL to track clicks from different users.
+  
+# Sobre de PHP Link Tracker (Rastreador de Enlaces)
+
+[Haga clic aquí para leer más](https://caferkara.com.tr/projects/php-link-tracker-features-and-changelogs/sobre-de-php-link-tracker-rastreador-de-enlaces/#post-13)
+
+# Enlace de soporte
+
+[Haga clic aquí para obtener ayuda](https://caferkara.com.tr/projects/php-link-tracker-support/)
 
 ## License
 
